@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/goblin0"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin6"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin7"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin8"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin9"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin10"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin11"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin12"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin13"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin14"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin15"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin16"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin17"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin18"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin19"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/goblin20"
+        android:duration="100" />
+    </animation-list>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/prince1"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince2"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince3"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince4"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince5"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince6"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince7"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince8"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince9"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince10"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince11"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince12"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince13"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince14"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince15"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince16"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince17"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince18"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince19"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince20"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince21"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince22"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince23"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince24"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince25"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince26"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince27"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince28"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince29"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince30"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince31"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince32"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince33"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince34"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince35"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince36"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince37"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince38"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince39"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince40"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince41"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince42"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince43"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince44"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince45"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince46"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince47"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince48"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince49"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince50"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince51"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince52"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince53"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince54"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince55"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince56"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince57"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince58"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince59"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince60"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince61"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince62"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince63"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince64"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince65"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince66"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince67"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince68"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince69"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince70"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince71"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince72"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince73"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince74"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince75"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince76"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince77"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince78"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince79"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince80"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince81"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince82"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince83"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince84"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince85"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince86"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince87"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince88"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince89"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince90"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince91"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince92"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince93"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince94"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince95"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince96"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince97"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince98"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince99"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince100"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince101"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince102"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/prince103"
+        android:duration="20" />
+
+</animation-list>
